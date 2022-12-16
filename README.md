@@ -1,4 +1,4 @@
-# Simple Web Application
+# Simple Web Application - CentOS
 Automates deployment of simple web application
 
 ## 1. Clone repository
